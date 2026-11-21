@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/adit-sharma-b5b37a313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-6E40C9?style=flat-square" alt="focus" />
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-555?style=flat-square" alt="location" />
-  <img src="https://komarev.com/ghpvc/?username=aditsharma14&label=Profile%20views&color=555&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aditsharma14&label=Profile%20views&color=grey&style=flat-square" alt="profile views" />
 </p>
 
 ---
